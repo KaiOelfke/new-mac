@@ -1,0 +1,25 @@
+{
+  "bootstrapped": true,
+  "in_process_packages":
+  [
+  ],
+  "installed_packages":
+  [
+    "AutoFileName",
+    "BracketHighlighter",
+    "Dracula Color Scheme",
+    "Git",
+    "GitGutter",
+    "Hugofy",
+    "Indent XML",
+    "Markdown Extended",
+    "MarkdownHighlighting",
+    "Package Control",
+    "SublimeCodeIntel",
+    "SublimeLinter",
+    "Swift",
+    "Text Pastry",
+    "Theme - Cobalt2",
+    "Vue Syntax Highlight"
+  ]
+}
