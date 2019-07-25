@@ -49,7 +49,6 @@ Things to do for setting up a new mac inspired by [KrauseFx: new-mac](https://gi
 - [ ] Install BlockBlock
 - [ ] Install RansomWhere
 - [ ] Install DHS
-- [ ] Install LuLu
 - [ ] Install What's Your Sign?
 - [ ] Install Oversight
 
