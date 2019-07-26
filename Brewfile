@@ -18,3 +18,4 @@ yarn
 z
 zsh
 zsh-completions
+uxprotect
